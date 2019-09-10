@@ -8,3 +8,4 @@ Credits:
 - free_mario.png is taken from https://www.freepngimg.com/png/20698-mario-transparent-background
 - color.jpg is taken from https://upload.wikimedia.org/wikipedia/commons/b/b1/Colouring_pencils.jpg
 - sonar.all-data is taken from https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+- SMSSpamCollection is taken from https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection ,  http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
