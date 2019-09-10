@@ -4,4 +4,5 @@ This repository includes presentation of our (vueron.ai) Python 3 workshop.
 
 Credits:
 
-- cars.xml file is originally published by https://github.com/andrewssobral/vehicle_detection_haarcascades
+- cars.xml file is previously published by https://github.com/andrewssobral/vehicle_detection_haarcascades
+- free_mario.png is taken from https://www.freepngimg.com/png/20698-mario-transparent-background
