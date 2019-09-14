@@ -59,4 +59,4 @@ sudo pip3 install scikit-learn
 - Scikit-Learn : https://scikit-learn.org/stable/documentation.html
 
 
-#### We hope that this repository and documentation links referred here, will provide some help to those who want to learn and advance their current skillset in Python, Numpy, OpenCV (Image Processing), NLTK(Natural Language Processing), and Scikit-Learn (Machine Learning).  :)
+#### We hope that this repository and documentation links referred here, will provide some help to those who want to learn and advance their current skillset in Python 3, numpy (for doing calculations as matrix, arrays etc.), tweepy (twitter bot api), OpenCV (Image Processing), NLTK (Natural Language Processing), and Scikit-Learn (Machine Learning).  :)
