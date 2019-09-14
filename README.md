@@ -2,6 +2,8 @@
 
 This repository includes presentation of our (vueron.ai) Python 3 workshop.
 
+#### Face Detection and Applying Mask Project : https://github.com/mr-ravin/Face-Anonymizer
+
 ### Credits:
 
 - cars.xml file is previously published by https://github.com/andrewssobral/vehicle_detection_haarcascades
