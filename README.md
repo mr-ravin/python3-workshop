@@ -17,7 +17,7 @@ This repository includes presentation of our (vueron.ai) Python 3 workshop.
 sudo apt-get update
 ```
 
-### Steps to install Packages
+### Steps to install Packages:
 
 - pip (for installing libraries in python available in Python Package Index)
 ```
