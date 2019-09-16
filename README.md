@@ -1,6 +1,6 @@
 # python3-workshop
 
-This repository includes presentation of our (vueron.ai) Python 3 workshop.
+This repository includes presentation of our (www.vueron.ai) Python 3 workshop.
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 #### Face Detection and Applying Mask Project : https://github.com/mr-ravin/Face-Anonymizer
