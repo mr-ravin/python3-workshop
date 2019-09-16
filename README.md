@@ -2,6 +2,7 @@
 
 This repository includes presentation of our (vueron.ai) Python 3 workshop.
 
+#### Author: [Ravin Kumar](https://mr-ravin.github.io)
 #### Face Detection and Applying Mask Project : https://github.com/mr-ravin/Face-Anonymizer
 
 ### Credits:
@@ -62,3 +63,5 @@ sudo pip3 install scikit-learn
 https://docs.google.com/forms/d/e/1FAIpQLScxSasN8cW1OD6mfgMYKR2a7PFBX62gBOiplxlPIIPUEqJ6yw/viewform?usp=sf_link
 
 #### We hope that this repository and documentation links referred here, will provide some help to those who want to learn and advance their current skillset in Python 3, numpy (for doing calculations as matrix, arrays etc.), tweepy (twitter bot api), OpenCV (Image Processing), NLTK (Natural Language Processing), and Scikit-Learn (Machine Learning).  :)
+
+##### Note: This work can be used freely for individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
