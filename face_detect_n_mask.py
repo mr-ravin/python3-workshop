@@ -1,9 +1,9 @@
 import cv2 as cv
 import sys
 
-human_filename=sys.argv[1] # we pass filename as command-line-argument here i.e. python3 face_detect_n_mask.py human_image.jpg
-mask_filename=sys.argv[2]
-
+human_filename=sys.argv[1] ## we pass filename of image containing human face as command-line-argument 1 
+mask_filename=sys.argv[2]  ## we pass filename of image having mask as command-line -argument 2
+                           ## i.e. i.e. python3 face_detect_n_mask.py human_image.jpg mask.jpg
 human_img=cv.imread(human_filename)
 mask_img=cv.imread(mask_filename)
 
