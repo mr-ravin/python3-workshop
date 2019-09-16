@@ -18,6 +18,12 @@ This repository includes presentation of our (www.vueron.ai) Python 3 workshop.
 sudo apt-get update
 ```
 
+
+### Steps to install vim in ubuntu (terminal based file editing tool)
+```
+sudo apt-get install vim-nox
+```
+
 ### Steps to install Packages:
 
 - pip (for installing libraries in python available in Python Package Index)
